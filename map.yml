@@ -1,0 +1,4 @@
+map_name: eastern_front
+games:
+- {game_name: Eastern Front vs Humans, file_name: Eastern_Front_vs_Humans.xml}
+- {game_name: Eastern Front vs AI, file_name: Eastern_Front_vs_AI.xml}
